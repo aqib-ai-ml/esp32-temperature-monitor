@@ -47,3 +47,16 @@ A 4.7kΩ pull-up resistor is connected between DATA and VCC.
 ---
 
 ## 📊 Sample Output
+---------------------------------
+
+Temperature (C): 29.50 °C
+
+Temperature (F): 85.10 °F
+
+Status: NORMAL
+
+Sensor GPIO: 4
+
+System Uptime: 1232 seconds
+
+---------------------------------
